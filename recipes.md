@@ -1,4 +1,4 @@
-# Entree
+# ENTREE
 
 [Mediterranean Chicken](https://www.feastingathome.com/mediterranean-chicken/)
 
@@ -49,10 +49,7 @@ Jan's salmon recipe
 
 [Chicken and Rice Taco Skillet](https://thedefineddish.com/chicken-and-rice-taco-skillet/)
 
-
-
-
-LUNCH
+# LUNCH
 
 Chickpea salad
 
@@ -66,7 +63,7 @@ Eggplant Caponata
 
 [Refried Beans](https://cookieandkate.com/easy-refried-beans-recipe/)
 
-SALAD
+# SALAD
 
 [Orzo salad](https://cookieandkate.com/orange-orzo-salad-recipe/)
 
@@ -80,13 +77,13 @@ Cucumber Salad (Carla)
 
 
 
-SOUP
+# SOUP
 
 Minestrone Soup
 
 [African Peanut Soup](https://www.cbc.ca/life/thegoods/oh-she-glows-soul-soothing-african-peanut-stew-1.5030770)
 
-BREAKFAST
+# BREAKFAST
 
 [Diana's power balls](https://mindfulnessisbliss.weebly.com/blog/oh-she-glows-chia-power-donuts)
 
